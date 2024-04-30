@@ -1314,8 +1314,11 @@ h1{
 
 /* NYJ SUMMARY */
 #imagetrevor{
-top: 200px;
-left: 50px;}
+    position: relative;
+top: 60px;
+left: 10px;
+height: 650px;
+}
 
 #NYJ{
     display: flex;
@@ -1336,6 +1339,7 @@ left: 50px;}
         }
 #summary{
     font-size: 30px;
+    background-color: beige;
 }
 }
 
